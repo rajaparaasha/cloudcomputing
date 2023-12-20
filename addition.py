@@ -1,5 +1,5 @@
-a = "Enter first number"
-b = "Enter any number"
+a = int(input("Enter first number"))
+b = int(input("Enter any number"))
 # Store input numbers
 
 # Add two numbers
