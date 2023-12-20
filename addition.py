@@ -6,4 +6,4 @@ b = "Enter any number"
 sum = a+ b
 
 # Display the sum
-print 'The sum of entered value is'.sum
+print ('The sum of entered value is').sum
